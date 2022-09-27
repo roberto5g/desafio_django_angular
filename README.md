@@ -15,9 +15,6 @@
 ```bash
 git clone https://github.com/roberto5g/desafio_django_angular.git
 cd desafio_django_angular
-composer install
-cp .env.example .env
-php artisan key:generate
 ```
 
 ### Configuração do Front-end
