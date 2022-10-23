@@ -1,5 +1,5 @@
 # Desafio FullStack - Loja Virtual
-**Foi desenvolvido um protótipo com funçẽos básicas para realizar as operações de CRUD**
+**Foi desenvolvido um protótipo com funções básicas para realizar as operações de CRUD**
 
 ### Requisitos
 *O desenvolvimento foi realizado em um ambiente linux e docker, não foi possível testar em ambiente windows*
